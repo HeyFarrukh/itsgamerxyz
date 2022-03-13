@@ -3,6 +3,9 @@
 <!--
 **itsgamerxyz/itsgamerxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+{<img src="https://spotifyplaying-six.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
+(https://open.spotify.com/user/313zrf7m6dlw2hk2xhlpfdk3cvzu)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

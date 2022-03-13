@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Spotify Playing 🎧
-[<img src="https://spotifyplaying-six.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
+[<img src="spotifyplaying-six.vercel.app" alt="Spotify Now Playing" width="350" />]
 (https://open.spotify.com/user/313zrf7m6dlw2hk2xhlpfdk3cvzu)

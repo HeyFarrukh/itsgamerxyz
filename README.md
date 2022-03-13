@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotifyplaying-itsgamerxyz.vercel.app/api/spotify-playing)]
-(https://open.spotify.com/user/313zrf7m6dlw2hk2xhlpfdk3cvzu)
-
+ [<img src="https://spotifyplaying-itsgamerxyz.vercel.app
+/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
 

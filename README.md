@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Spotify Playing 🎧
+### What I'm Listening To 🎧
 ![Gamer-XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu)
 

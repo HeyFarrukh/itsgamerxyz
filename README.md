@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What i'm listening to 👇
-![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)
-
-<h2>About me</h2>
+<h2>About Me</h2>
 
 - IDK
 - [Website](https://gamer-xyz.ml/)
+
+### What i'm listening to 👇
+![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)
 
 <h2>Working on?</h2>
 

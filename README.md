@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 - Just a dude who likes to code random cool stuff 
 - [Visit My Website](https://gamer-xyz.ml/)
+<p align="left">
+  <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
+</p>
 
 ### Music i listen to 👇
 ![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)
@@ -33,7 +36,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsGamerXyZ&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsGamerXyZ" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
-</p>
+
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2>About me</h2>
 
 - IDK
-- website: [click here](https://gamer-xyz.ml/)
+- [Website](https://gamer-xyz.ml/)
 
 <h2>Working on?</h2>
 

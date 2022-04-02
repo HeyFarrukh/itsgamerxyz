@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
-- IDK
-- [Website](https://gamer-xyz.ml/)
+- Just a dude who likes to code random cool stuff 
+- [Visit My Website](https://gamer-xyz.ml/)
 
 ### Music i listen to 👇
 ![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)
 
-<h2>Working on?</h2>
-
-- My Website
+<h2>Statistics</h2>
 
 
 <p align="left">
@@ -36,6 +34,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20me%20on%20twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
+  <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
 </p>
 

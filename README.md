@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
 </p>
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCUMB1ck-XkI1ZDuo-lwkPtg" target="blank"><img src="https://img.shields.io/youtube/subscribe/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=youtube&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
-</p>
+
 
 ### Music i listen to 👇
 ![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)

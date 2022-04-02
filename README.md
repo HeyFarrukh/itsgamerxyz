@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - Just a dude who likes to code random cool stuff 
 - [Visit My Website](https://gamer-xyz.ml/)
-<p align="left">
+- <p align="left">
   <a href="https://twitter.com/itsGamerXyZ" target="blank"><img src="https://img.shields.io/twitter/follow/itsGamerXyZ?color=blue&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=fff&style=for-the-badge" alt="itsGamerXyZ"/></a>
 </p>
 

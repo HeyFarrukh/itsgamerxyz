@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### Music i listen to 👇
+### What i'm jamming to 👇
 ![Gamer-XyZ](https://spotify-recently-played-readme.vercel.app/api?user=31raoain7cv2wepzokbsb4hvwlc4&count=6)
 
 <h2>Statistics</h2>

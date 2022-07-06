@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### Music i listen to 👇
-![Gamer XyZ](https://spotify-recently-played-readme.vercel.app/api?user=313zrf7m6dlw2hk2xhlpfdk3cvzu&count=6)
+![Gamer-XyZ](https://spotify-recently-played-readme.vercel.app/api?user=31raoain7cv2wepzokbsb4hvwlc4&count=6)
 
 <h2>Statistics</h2>
 
